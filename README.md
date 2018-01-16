@@ -70,22 +70,6 @@ It is possible to add additional information to a node-link diagram in numerous 
 <table border="0">
   <tr>
     <td>
-      <img src="img/circle-visualisation-boston.png" style="width: 100px;">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="EFEFEF">
-      Example of cirlce-positionned nodes : Boston bike-sharing system.[3]
-    </td>
-  </tr>
-</table>
-
-This is a map of all the subreddits on the reddit website. Reddit is a huge forum that allows people ton interact on smaller forums called subreddits. Each subreddit deals with a paricular theme, and users can subscribe to them (or not) if they are interested in the content.
-The graph below is a screenshot of <a href = http://www.jacobsilterra.com/subreddit_map/network/index.html>this website</a> that displays a map of Reddit, where each node represents a subreddit, and each link displays the information of the similarity between the two subreddits: if a lot of users that are in one subreddit are in the other one, then there will be a connection bewteen these two subreddits. However, this is not all of the data that is displayed :
-
-<table border="0">
-  <tr>
-    <td>
       <img src="img/Reddit.png" style="width: 100px;">
     </td>
   </tr>
@@ -95,6 +79,9 @@ The graph below is a screenshot of <a href = http://www.jacobsilterra.com/subred
     </td>
   </tr>
 </table>
+
+This is a map of all the subreddits on the reddit website. Reddit is a huge forum that allows people ton interact on smaller forums called subreddits. Each subreddit deals with a paricular theme, and users can subscribe to them (or not) if they are interested in the content.
+The graph below is a screenshot of <a href = http://www.jacobsilterra.com/subreddit_map/network/index.html>this website</a> that displays a map of Reddit, where each node represents a subreddit, and each link displays the information of the similarity between the two subreddits: if a lot of users that are in one subreddit are in the other one, then there will be a connection bewteen these two subreddits. However, this is not all of the data that is displayed :
 
 - Size of bubbles:
 The size of the bubbles can be used to display a quantitative information concerning the nodes.
