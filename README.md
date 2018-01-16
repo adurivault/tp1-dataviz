@@ -6,7 +6,7 @@ Node-link diagrams, also called graphs, or network diagrams, are diagrams that d
 <table border="0">
   <tr>
     <td>
-      <img src="img/illustration.png" style="width: 100px;">
+      <img src="img/Illustration.png" style="width: 100px;">
     </td>
   </tr>
   <tr>
